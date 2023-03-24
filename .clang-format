@@ -8,8 +8,6 @@ BinPackParameters: false
 AlignAfterOpenBracket: BlockIndent
 ContinuationIndentWidth: 3
 AllowShortFunctionsOnASingleLine: false
-AllowShortIfStatementsOnASingleLine: WithoutElse
-AllowShortBlocksOnASingleLine: Always
 BreakBeforeBraces: Allman
 SeparateDefinitionBlocks: Always
 
