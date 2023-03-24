@@ -1,0 +1,22 @@
+BasedOnStyle: LLVM
+IndentWidth: 3
+TabWidth: 3
+UseTab: Always
+ColumnLimit: 128
+BinPackArguments: false
+BinPackParameters: false
+AlignAfterOpenBracket: BlockIndent
+ContinuationIndentWidth: 3
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortBlocksOnASingleLine: Always
+BreakBeforeBraces: Allman
+SeparateDefinitionBlocks: Always
+
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossComments: true
+
+AlignConsecutiveBitFields:
+  Enabled: true
+  AcrossComments: true
